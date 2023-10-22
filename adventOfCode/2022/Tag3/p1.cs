@@ -29,7 +29,7 @@ public class Program
             line = sr.ReadLine();
         }
 
-        Console.WriteLine(sum);
+        Console.WriteLine($"Part 1: {sum}");
     }
 
 
@@ -71,14 +71,14 @@ public class Program
 
             sum = sum + letterValue;
         }
-        Console.WriteLine(sum);
+        Console.WriteLine($"Part 2: {sum});
     }
 
 
 
     static void Main(string[] args)
     {
-        // Part1();
+        Part1();
         Part2();
         Console.ReadKey();
     }
