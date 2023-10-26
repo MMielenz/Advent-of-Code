@@ -1,0 +1,14 @@
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\bin\Debug\net7.0\Tag4.exe
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\bin\Debug\net7.0\Tag4.deps.json
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\bin\Debug\net7.0\Tag4.runtimeconfig.json
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\bin\Debug\net7.0\Tag4.dll
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\bin\Debug\net7.0\Tag4.pdb
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\obj\Debug\net7.0\Tag4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\obj\Debug\net7.0\Tag4.AssemblyInfoInputs.cache
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\obj\Debug\net7.0\Tag4.AssemblyInfo.cs
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\obj\Debug\net7.0\Tag4.csproj.CoreCompileInputs.cache
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\obj\Debug\net7.0\Tag4.dll
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\obj\Debug\net7.0\refint\Tag4.dll
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\obj\Debug\net7.0\Tag4.pdb
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\obj\Debug\net7.0\Tag4.genruntimeconfig.cache
+D:\Hauptordner\vscProjekte\adventOfCode\2022\Tag4\obj\Debug\net7.0\ref\Tag4.dll
