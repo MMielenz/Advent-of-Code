@@ -199,7 +199,7 @@ class Program
 
     static void Main(string[] args)
     {
-        // Part1();
+        Part1();
         Part2();
 
         Console.ReadKey();
